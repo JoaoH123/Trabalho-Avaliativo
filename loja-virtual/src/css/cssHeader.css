@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header {
+    background-color: darkgrey;
+    height: 50px;
+}
+
+.item {
+    margin-top: 12px;
+}

@@ -1,0 +1,66 @@
+.listaProdutosP {
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    height: 30vh;
+}
+
+.listaItensP {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px;
+}
+
+.boxP {
+    background-color: aquamarine;
+    margin: 20px;
+    height: 6cm;
+    width: 5cm;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonP {
+    width: 87%;
+    height: 25px;
+    background-color: wheat;
+    margin-left: 6%;
+}
+
+.img1 {
+    width: 150px;
+    height: auto;
+}
+
+.img2 {
+    width: 130px;
+    height: auto;
+}
+
+.img3 {
+    width: 130px;
+    height: auto;
+}
+
+.img4 {
+    width: 150px;
+    height: auto;
+}
+
+.img5 {
+    width: 180px;
+    height: auto;
+}
+
+.img6 {
+    width: 170px;
+    height: auto;
+}
+
+.textP {
+    text-align: center;
+    margin-top: 50px;
+}

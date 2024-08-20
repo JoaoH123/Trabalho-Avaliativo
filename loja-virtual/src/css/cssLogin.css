@@ -7,37 +7,37 @@ body {
     background-color: cyan;
 }
 
-.div {
+.divL {
     width: 100vw;
     height: 100vh;
 }
 
-.container {
-    background-image: linear-gradient(to left, crimson, skyblue);
+.containerL {
+    background-image: linear-gradient(to left, blue, skyblue);
     height: 22%;
     width: 15%;
     margin-left: 40%;
     border-radius: 10px;
-    margin-top: 16%;
+    margin-top: 13%;
 }
 
-.campoLogin {
+.campoLoginL {
     display: flex;
     flex-direction: column;
     text-align: center;
 }
 
-.login {
+.loginL {
     display: flex;
     flex-direction: column;
     text-align: center;
 }
 
-.text {
+.textL {
     margin-top: 5%;
 }
 
-.button {
+.buttonL {
     margin-top: 8%;
     height: 30px;
     width: 250px;
@@ -45,7 +45,7 @@ body {
     margin-left: 7%;
 }
 
-.login input {
+.loginL input {
     border-radius: 10px;
     margin-left: 10%;
     width: 80%;
@@ -53,27 +53,13 @@ body {
     text-align: center;
 }
 
-.titulo {
+.tituloL {
     font-size: x-large;
     text-align: center;
     color: aquamarine;
 }
 
-.mensagem {
+.mensagemL {
     text-align: center;
     margin-right: 4.9%;
-}
-
-.flex {
-    display: flex;
-    justify-content: space-around;
-}
-
-.header {
-    background-color: darkgrey;
-    height: 50px;
-}
-
-.item {
-    margin-top: 12px;
 }

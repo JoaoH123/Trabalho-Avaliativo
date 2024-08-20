@@ -10,7 +10,7 @@ function Header() {
                 <Link to='/'> Pagina principal</Link>
             </div>
             <div className="item">
-                <Link> Produtos</Link>
+                <Link to='/Produtos'> Produtos</Link>
             </div>
         </div>
     )
